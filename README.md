@@ -12,7 +12,7 @@
 This repository contains implementation of the following projects in Python using OpenCV:
 - [Connected Components](/connected_components)
 - [Corner Detection (Harris - Sobel)](/corner_detection_harris_sobel)
-- [Face Detection (haar)](/face_detection_haar)
+- [Face Detection (Haar cascade)](/face_detection_haar)
 - [Face Detection (Kalman)](/face_detection_Kalman)
 - [Histogram Stretching and Histogram Clipping](histogram_stretching_clipping)
 - [Line segmentation (RANSAC - LSD - Hough)](line_RANSAC_LSD_Hough)
