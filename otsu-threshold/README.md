@@ -7,7 +7,7 @@
 
 ## adaptive_threshold
 
-Comparing global and adaptive thresholding on an input image
+Comparing global and adaptive thresholding on an input image.
 
   - Input:<br><br>
 ![doc_shadow](/otsu-threshold/img/doc_shadow.png)
@@ -17,7 +17,7 @@ Comparing global and adaptive thresholding on an input image
 
 ## otsu
 
-Implementing Otsu method for Automatic Image Thresholding
+Implementing Otsu method for Automatic Image Thresholding.
 
   - Input:<br><br>
 ![redBall](/otsu-threshold/img/redBall.png)
