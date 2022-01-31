@@ -1,6 +1,6 @@
 # Scanner
 
-Implementing a simple document scanner in Python with OpenCV
+Implementing a simple document scanner in Python with OpenCV.
 
   - Input:<br><br>
 ![1](/scanner/img/1.jpg)
