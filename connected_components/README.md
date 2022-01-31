@@ -7,6 +7,8 @@
 
 ## cc-1
 
+A program to detect a specific type of connected components
+
   - Input:<br><br>
 ![Stadium1](/connected_components/img/Stadium1.jpg)
 
@@ -20,6 +22,8 @@
 ![Stadium2 out](/connected_components/img/Stadium2_Grass.png)
 
 ## cc-2
+
+A program to count the number of connected components in an input image
 
   - Input:<br><br>
 ![shapes](/connected_components/img/shapes.png)
