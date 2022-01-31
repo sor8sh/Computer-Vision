@@ -1,6 +1,6 @@
 # Corner Detection using Harris and Sobel
 
-Implementing Harris corner detection algorithm using Sobel
+Implementing Harris corner detection algorithm using Sobel.
 
   - Input:<br><br>
 ![Corners 1](/corner_detection_harris_sobel/img/1.jpg)

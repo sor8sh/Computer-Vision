@@ -18,7 +18,7 @@ This repository contains implementation of the following projects in Python usin
 - [Face Detection (Haar cascade)](/face_detection_haar)
   - Detecting faces of an input image by using `Haar cascade`.
 - [Histogram Stretching and Histogram Clipping](histogram_stretching_clipping)
-  - Processing an image with `Histogram Streching` and `Histogram Clipping`.
+  - Processing an image with `Histogram Stretching` and `Histogram Clipping`.
 - [Line segmentation (RANSAC - LSD - Hough)](line_RANSAC_LSD_Hough)
   - Circle detection using OpenCV's `HoughCircles`.
   - Implementing `RANSAC` line detection in Python.

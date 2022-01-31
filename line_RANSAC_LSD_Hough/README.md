@@ -34,8 +34,7 @@ Implementing RANSAC line detection in Python.
 
 ## rectangle_LSD_Hough
 
-Detecting rectangles using Line Segment Detector and Hough Algorithm
-
+Detecting rectangles using Line Segment Detector and Hough Algorithm.
 
   - Input:<br><br>
 ![Rectangles](/line_RANSAC_LSD_Hough/img/rectangles.jpg)

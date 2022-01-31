@@ -1,6 +1,6 @@
-# Histogram Streching and Histogram Clipping
+# Histogram Stretching and Histogram Clipping
 
-Processing an image with Histogram Streching and Histogram Clipping
+Processing an image with Histogram Stretching and Histogram Clipping.
 
   - Input:<br><br>
 ![Image 1](/histogram_stretching_clipping/img/1.png)
