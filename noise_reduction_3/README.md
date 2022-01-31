@@ -1,6 +1,6 @@
 # Noise Reduction using Gaussian and Mask filters
 
-Removing noise from an input image by applying Gaussian and Mask filters
+Removing noise from an input image by applying Gaussian and Mask filters.
 
   - Gaussian filter:<br><br>
 ![1_gaussian](/noise_reduction_3/img/1_gaussian.jpg)
